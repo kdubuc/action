@@ -1,4 +1,17 @@
 {
+    "name": "kdubuc/invocator-php",
+    "description": "Handles HTTP requests using stdio",
+    "keywords": ["invocator", "psr-15", "psr-7", "stdio", "serverless"],
+    "homepage": "https://github.com/kdubuc/invocator-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "role": "Developer",
+            "name": "Kevin DUBUC",
+            "email": "kevindubuc62@gmail.com",
+            "homepage": "http://kevindubuc.fr"
+        }
+    ],
     "require": {
         "php": "^7.3",
         "guzzlehttp/psr7": "^1.5",
