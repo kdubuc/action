@@ -1,0 +1,7 @@
+composer.lock
+vendor
+build
+docs
+.DS_Store
+*.cache
+action.code-workspace
